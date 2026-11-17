@@ -1,30 +1,72 @@
 # Hi, I'm Anindya 👋
 
-I’m a developer focused on **Python, backend engineering, machine learning, and TypeScript**. I enjoy building practical software, exploring how AI can solve real problems, and contributing to open-source projects.
+I’m a developer who enjoys building meaningful, practical, and creative projects. I like turning ideas into clean, useful solutions and constantly learning new tools, technologies, and workflows along the way.
 
-## What I’m interested in
+> Passionate about code, problem-solving, and creating things that make life a little easier.
 
-- 🤖 Artificial intelligence and machine learning
-- ⚙️ Backend development and APIs
-- 🌍 Open-source software and community collaboration
+## About Me
 
-## Tech I work with
+- 💻 Interested in software development, technology, and building impactful products
+- 🌱 Always learning and exploring new tools, frameworks, and ideas
+- 🚀 Enjoy creating projects that are useful, scalable, and enjoyable to use
+- 🎯 Focused on continuous improvement, clean design, and practical problem solving
 
-- **Languages:** Python, TypeScript
-- **Focus areas:** Backend development, machine learning
+## Tech Stack
 
-## Featured projects
+### Languages
+- Python
+- JavaScript / TypeScript
+- Java
+- C++
+- SQL
 
-Explore my repositories to see what I’m building and learning. I’ll highlight a few favorites here soon.
+### Tools & Frameworks
+- Git & GitHub
+- React
+- Node.js
+- Express
+- REST APIs
+- Docker
+- Linux / Terminal
 
-## Open to opportunities
+### Interests
+- Web development
+- Backend systems
+- Automation
+- APIs
+- Data-driven applications
+- Product thinking
 
-I’m actively seeking **internships and entry-level opportunities** where I can contribute, learn from a team, and grow as a developer. If you’re hiring or know of a good fit, I’d love to connect.
+## Featured Projects
 
-## Connect
+### [Project Name]
+Brief description of what the project does, the problem it solves, and the technologies used.
 
-- [LinkedIn](https://www.linkedin.com/in/anindyasnandi/)
+### [Project Name]
+A short summary of another project you want to highlight, along with key features or achievements.
+
+## GitHub Stats
+
+![Anindya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anindya4&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anindya4&layout=compact&theme=radical)
+
+## Connect With Me
+
+- 🌐 Portfolio: [Your website or portfolio link]
+- 💼 LinkedIn: [Your LinkedIn profile link]
+- 📧 Email: [your.email@example.com]
+- 🐦 Twitter / X: [your handle]
+
+## Current Focus
+
+I’m currently exploring:
+- [Area 1]
+- [Area 2]
+- [Area 3]
 
 ---
 
-Thanks for visiting my profile — feel free to explore my repositories and say hello!
+“Code is not just about solving problems — it’s about building experiences that matter.”
+
+Thanks for visiting my profile! Feel free to explore my projects and connect with me.
