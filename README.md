@@ -37,35 +37,13 @@ I’m a developer who enjoys building meaningful, practical, and creative projec
 - Data-driven applications
 - Product thinking
 
-## Featured Projects
-
-### [Project Name]
-Brief description of what the project does, the problem it solves, and the technologies used.
-
-### [Project Name]
-A short summary of another project you want to highlight, along with key features or achievements.
-
-## GitHub Stats
-
-![Anindya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anindya4&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anindya4&layout=compact&theme=radical)
 
 ## Connect With Me
 
-- 🌐 Portfolio: [Your website or portfolio link]
-- 💼 LinkedIn: [Your LinkedIn profile link]
-- 📧 Email: [your.email@example.com]
-- 🐦 Twitter / X: [your handle]
+- 🌐 Portfolio: [https://anindyasnandi.vercel.app/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/anindyasnandi/]
+- 📧 Email: [anindyanandi.work@gmail.com]
 
-## Current Focus
-
-I’m currently exploring:
-- [Area 1]
-- [Area 2]
-- [Area 3]
-
----
 
 “Code is not just about solving problems — it’s about building experiences that matter.”
 
