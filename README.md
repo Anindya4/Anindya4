@@ -1,34 +1,30 @@
 # Hi, I'm Anindya 👋
 
-Welcome to my GitHub profile! This is where I share projects, experiments, and things I’m learning along the way.
-
-> **A quick introduction:** I’m currently exploring **[your field or area of interest]** and working toward **[a goal you’re excited about]**.
+I’m a developer focused on **Python, backend engineering, machine learning, and TypeScript**. I enjoy building practical software, exploring how AI can solve real problems, and contributing to open-source projects.
 
 ## What I’m interested in
 
-- Building useful, thoughtful projects
-- Learning new tools and ideas by making things
-- Sharing work, progress, and lessons learned
+- 🤖 Artificial intelligence and machine learning
+- ⚙️ Backend development and APIs
+- 🌍 Open-source software and community collaboration
+
+## Tech I work with
+
+- **Languages:** Python, TypeScript
+- **Focus areas:** Backend development, machine learning
 
 ## Featured projects
 
-_Add your favorite projects here when you’re ready._
+Explore my repositories to see what I’m building and learning. I’ll highlight a few favorites here soon.
 
-- **[Project name](project-link)** — [What it does and why you built it]
-- **[Project name](project-link)** — [What makes it interesting]
+## Open to opportunities
 
-## A few things about me
+I’m actively seeking **internships and entry-level opportunities** where I can contribute, learn from a team, and grow as a developer. If you’re hiring or know of a good fit, I’d love to connect.
 
-- **Currently learning:** [topic, language, or tool]
-- **I enjoy working with:** [your favorite technologies]
-- **Outside of coding:** [a hobby or interest]
+## Connect
 
-## Find me elsewhere
-
-- **LinkedIn:** [profile link]
-- **Portfolio / blog:** [website link]
-- **Contact:** [preferred contact link or email]
+- [LinkedIn](https://www.linkedin.com/in/anindyasnandi/)
 
 ---
 
-_Thanks for stopping by — feel free to explore my repositories and say hello!_
+Thanks for visiting my profile — feel free to explore my repositories and say hello!
