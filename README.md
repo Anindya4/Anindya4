@@ -16,8 +16,6 @@ I’m a developer who enjoys building meaningful, practical, and creative projec
 ### Languages
 - Python
 - JavaScript / TypeScript
-- Java
-- C++
 - SQL
 
 ### Tools & Frameworks
@@ -40,9 +38,9 @@ I’m a developer who enjoys building meaningful, practical, and creative projec
 
 ## Connect With Me
 
-- 🌐 Portfolio: [https://anindyasnandi.vercel.app/]
-- 💼 LinkedIn: [https://www.linkedin.com/in/anindyasnandi/]
-- 📧 Email: [anindyanandi.work@gmail.com]
+- 🌐 [Portfolio](https://anindyasnandi.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anindyasnandi/)
+- 📧 [Email](anindyanandi.work@gmail.com)
 
 
 “Code is not just about solving problems — it’s about building experiences that matter.”
